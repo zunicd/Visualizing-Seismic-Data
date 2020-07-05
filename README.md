@@ -17,7 +17,7 @@ For this step change the JavaScript in the *index.html* to *Leaflet-Step-1/js/lo
 
 A map that plots all earthquakes in the past 7 days based on their longitude and latitude was created:
 
-- Data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appears larger and darker in color.
+- Data markers reflect the magnitude of the earthquakes in their size and color. Earthquakes with higher magnitudes appears larger and darker in color.
 - The map includes popups that provide additional information about the earthquake when a marker is clicked.
 - A legend that provides context for the map data was created.
 
