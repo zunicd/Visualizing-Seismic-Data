@@ -1,0 +1,2 @@
+// API key
+const API_KEY = "PLACE YOUR KEY HERE, AND RENAME THE FILE TO config.js";
