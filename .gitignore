@@ -120,3 +120,6 @@ dmypy.json
 # API keys
 config.py
 config.js
+
+# VS Code
+.vscode
