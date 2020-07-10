@@ -1,6 +1,8 @@
 # Visualizing Seismic Data with Leaflet
 
-**Note:** To run this, you must use your own mapbox token key. You can add your key in the provided file *static/js/config_dummy.js* and then rename it to *config.js*.
+**This map has been deployed to Heroku:**   https://visualizing-seismic-data.herokuapp.com/
+
+**Note:** To run this on your PC, you must use your own Mapbox token key. 
 
 
 
