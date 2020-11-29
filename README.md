@@ -41,7 +41,7 @@ For this step change the JavaScript in the *index.html* to *Leaflet-Step-2/js/lo
 
 - The second data set, with data on tectonic plates, was added to the map to illustrate the relationship between tectonic plates and seismic activity. 
 - Three base map layers were created to choose from: light, satellite, outdoors 
-- Two data sets, earthquakes and tectonic planes,  were separated into overlays that could be turned on and off independently.
+- Two data sets, earthquakes and tectonic plates,  were separated into overlays that could be turned on and off independently.
 - Layer controls were added to the map.
 - The legend for the earthquakes layer was configured to be turned on and off together with the layer
 - When the earthquakes layer is on, it is kept always on top ([helpful resource](https://gis.stackexchange.com/questions/183914/how-to-keep-vector-layer-on-top-of-all-layers-despite-toggling-order))
