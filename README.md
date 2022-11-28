@@ -1,6 +1,6 @@
 # Visualizing Seismic Data with Leaflet
 
-**This map has been deployed to Heroku:**   https://visualizing-seismic-data.herokuapp.com/
+**This map has been deployed to Render:**  [https://visualizing-seismic-data.onrender.com](https://visualizing-seismic-data.onrender.com)
 
 **Note:** To run this on your PC, you must use your own Mapbox token key. 
 
